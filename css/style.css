@@ -9703,3 +9703,9 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    .title-s{
+      margin-top: 30px;
+      font-weight: 800;
+      font-size: 18px;
+    }
